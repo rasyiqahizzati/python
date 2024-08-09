@@ -1,7 +1,6 @@
 # python
-This file for my reference for python project and upcoming work.
-For my references, below are the list of the learning title :
-1. Python Data Analysis
+- this file for my reference for python project and upcoming work.
+- the name of the course : Python Data Analysis
 
 Note :
 Data modelling : Data modeling is a process of creating a conceptual representation of data objects and their relationships to one another.
